@@ -1,0 +1,14 @@
+{
+    "name": "infinitybot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: No test specified \" && exit 1"
+    },
+    "author": "lolpop78910",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "11.2.1"
+    }
+}
